@@ -1,7 +1,14 @@
+# Criando sessões interativas usando o CDE
+
 ### Laboratório 4 : Executar uma Sessão Interativa PySpark
 
 Navegue até a Página Principal do CDE e inicie uma Sessão PySpark. 
-Mantenha os valores padrão inalterados.
+
+Clique na opção de "Create session"
+
+![alt text](../img/create_session.png)
+
+Mantenha os valores padrões inalterados, preencha um nome e o tipo da sessão.
 
 ![alt text](../img/criar_sessao.png)
 
@@ -10,8 +17,6 @@ Uma vez que a Sessão esteja pronta, abra a aba "Interact" para inserir seu cód
 ![alt text](../img/sessao_em_execucao.png)
 
 Você pode copiar e colar o código das instruções no notebook clicando no ícone no canto superior direito da célula de código.
-
-![alt text](../img/create_session.png)
 
 Cole a célula abaixo no notebook. 
 Antes de executá-la, certifique-se de ter alterado a variável "username" para o seu usuário designado.
@@ -31,8 +36,6 @@ storageLocation = "s3a://hol-sefazsc-buk-b76c0ff7/data/warehouse/tablespace/exte
 username = "user100"
 db = "bancodemo_{0}.db".format(username)
 ```
-
-![alt text](../../img/part1-cdesession-4.png)
 
 Não são necessárias mais modificações no código. Continue executando cada fragmento de código abaixo em células separadas no notebook.
 
