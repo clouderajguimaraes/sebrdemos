@@ -220,7 +220,9 @@ A execução desses jobs é fundamental para execução desse Hands-On-Lab, esse
 
 ## Pergunte ao instrutor o próximo passo
 
-Uma vez que todos os jobs executaram com sucesso, vamos inciar o próximo Lab. Podemos seguir com outro Lab de CDE para explorar a criação de sessões [Usando sessões interativas no CDE](https://github.com/clouderajguimaraes/sebrdemos/blob/patch-1/tutorials/sessoes_interativas.md) ou podemos passar para os Labs do Hive [Avaliação das funcionalidades e migração do Iceberg no Hive](https://github.com/clouderajguimaraes/sebrdemos/blob/patch-1/tutorials/ComandosHQLIcebergHive.md) 
+Uma vez que todos os jobs executaram com sucesso, vamos inciar o próximo Lab. 
+- Podemos seguir com outro Lab de CDE para explorar a criação de sessões [Usando sessões interativas no CDE](https://github.com/clouderajguimaraes/sebrdemos/blob/patch-1/tutorials/sessoes_interativas.md) ou
+- Podemos passar para os Labs do Hive/Iceberg [Avaliação das funcionalidades e migração do Iceberg no Hive](https://github.com/clouderajguimaraes/sebrdemos/blob/patch-1/tutorials/ComandosHQLIcebergHive.md) 
 
 ---
 
